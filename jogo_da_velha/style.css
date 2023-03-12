@@ -1,0 +1,53 @@
+.tabela {
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    margin: auto;
+
+}
+
+.tabela2 {
+    align-items: center;
+    margin: auto;
+}
+
+.td1 {
+    border: solid;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.titulo {
+    background-image: url(imagens/titulo.png);
+    background-position: center;
+    background-size: 400px;
+    background-repeat: no-repeat;
+    height: 80px;
+}
+
+.fundo {
+    background-color: rgb(252, 248, 248);
+}
+
+.textVencedor {
+    text-align: center;
+    font-size: 20px;
+}
+
+.reiniciar {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.td {
+    align-items: center;
+}
