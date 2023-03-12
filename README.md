@@ -3,7 +3,7 @@ Jogo da velha criado em html, css e javaScript
 
 ## Imagens do Jogo
 
-#### Tabuleiro
+### Tabuleiro
 ![Tabuleiro](https://github.com/DanielCalado/Jogo_da_Velha/blob/main/Imagens%20do%20Jogo/jogo_da_velha_01.png)
 
 ### Jogador O ganha!
